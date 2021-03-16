@@ -84,10 +84,9 @@ footer {
 
   .step-box {
     width: 90%;
-    margin-bottom: 20px;
+    margin: 20px auto;
     padding: 10px;
     position: relative;
     background-color: #eeeeee;
-    margin: 0 auto;
   }
 }
